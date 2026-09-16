@@ -1,0 +1,776 @@
+[
+  {
+    "id": "log_86edce85-2be6-42ad-92b3-dc5a505ddae4",
+    "timestamp": "2026-09-16T13:43:29.645Z",
+    "event": "PASSWORD_CHANGED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Admin password change failed: Current admin password does not match."
+  },
+  {
+    "id": "log_d071a64a-8e26-4a77-a86c-0dcb6b47b1a2",
+    "timestamp": "2026-09-16T13:43:29.041Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_22f664c2-d21e-45e6-9a34-6d456f3293c0",
+    "timestamp": "2026-09-16T13:43:28.779Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_dc71648b-325e-4a56-b18f-ce09747eba9b",
+    "timestamp": "2026-09-16T13:39:40.114Z",
+    "event": "PASSWORD_CHANGED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Admin password change failed: Current admin password does not match."
+  },
+  {
+    "id": "log_6ab0d7e7-8b26-4838-ae37-673839ac6463",
+    "timestamp": "2026-09-16T13:39:35.876Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_a0db01f6-2170-4862-9cce-ea0661f6e8fc",
+    "timestamp": "2026-09-16T13:39:35.601Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_704722f3-5f07-4a45-ad96-d75b6ed3631f",
+    "timestamp": "2026-09-16T13:35:30.241Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_cb6127e2-eb51-4bb7-b7f6-0dbfe3c91244",
+    "timestamp": "2026-09-16T13:34:33.784Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_fabe0bfe-fe0e-4423-a2d8-259474fa18ef",
+    "timestamp": "2026-09-16T13:33:30.045Z",
+    "event": "USER_REGISTERED",
+    "identifier": "vault_tester_1789565609870",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "New user account registered with email: user_1789565609870@testvault.org"
+  },
+  {
+    "id": "log_cd1637ac-4fd9-49b7-a403-c2b9e680188e",
+    "timestamp": "2026-09-16T13:33:29.844Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "unique_1789565609810",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must be at least 8 characters long."
+  },
+  {
+    "id": "log_b3fafce2-0ffc-4dc8-bd06-bd2aa816ffa9",
+    "timestamp": "2026-09-16T13:33:29.772Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"shubham@1700\" is reserved. Please choose a different unique Vault ID."
+  },
+  {
+    "id": "log_3350e2cd-3b72-41b7-85b6-34780f304546",
+    "timestamp": "2026-09-16T13:33:29.722Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"madar@2004\" is already taken. Every user must have a unique ID. Please choose a different Vault ID."
+  },
+  {
+    "id": "log_7a03b6bd-832a-400e-97da-39042b9054d3",
+    "timestamp": "2026-09-16T13:33:29.674Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "unique_1789565609643",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: This Email ID is already registered. Each email address can only be used once. Please sign in or use a different email address."
+  },
+  {
+    "id": "log_c1bf1c41-791a-4730-a139-e07bdb19ffab",
+    "timestamp": "2026-09-16T13:33:29.616Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "friend@9000",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_4530af5f-6697-4d76-9e83-6d9ca565cfcc",
+    "timestamp": "2026-09-16T13:33:29.412Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Unauthorized user attempted to log in via Developer Admin Portal"
+  },
+  {
+    "id": "log_5f62f551-b56f-43a7-a5bd-e9a265854f78",
+    "timestamp": "2026-09-16T13:33:29.101Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_d96a2662-1115-4bde-a185-45bff4886283",
+    "timestamp": "2026-09-16T13:33:28.873Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_0e1f247d-2365-48ca-b399-94103c19e60d",
+    "timestamp": "2026-09-16T13:33:28.528Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_515112b4-a224-4424-9459-ae4644c95a76",
+    "timestamp": "2026-09-16T13:32:52.716Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "test",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must be at least 8 characters long."
+  },
+  {
+    "id": "log_29207a46-5357-442f-8aca-9c667f69dbe2",
+    "timestamp": "2026-09-16T13:28:51.365Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "friend@9000",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_6d8d6e2a-05db-4c0e-a006-fd90083f5add",
+    "timestamp": "2026-09-16T13:28:51.178Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Unauthorized user attempted to log in via Developer Admin Portal"
+  },
+  {
+    "id": "log_d254b09b-3bf1-4e1b-a83c-054fcda3d7a5",
+    "timestamp": "2026-09-16T13:28:50.950Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_78dd1a5a-7d62-46dc-88c8-265115368245",
+    "timestamp": "2026-09-16T13:28:50.748Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_7c532550-10a9-4e29-87b9-fd3559d721fc",
+    "timestamp": "2026-09-16T13:28:50.520Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_a390d36b-b2bc-4646-ac40-29105a30ba9a",
+    "timestamp": "2026-09-16T13:28:12.364Z",
+    "event": "USER_REGISTERED",
+    "identifier": "vault_tester_1789565292168",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "New user account registered with email: user_1789565292168@testvault.org"
+  },
+  {
+    "id": "log_90fbd34b-a797-4778-ab44-f18296cbf836",
+    "timestamp": "2026-09-16T13:28:12.154Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "unique_1789565292134",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must be at least 8 characters long."
+  },
+  {
+    "id": "log_e1b99dd5-98ce-4009-9e88-c992c33ce6c2",
+    "timestamp": "2026-09-16T13:28:12.114Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"shubham@1700\" is reserved. Please choose a different unique Vault ID."
+  },
+  {
+    "id": "log_8d1ddc55-b860-4f81-aede-2cf6432f12cc",
+    "timestamp": "2026-09-16T13:28:12.085Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"madar@2004\" is already taken. Every user must have a unique ID. Please choose a different Vault ID."
+  },
+  {
+    "id": "log_e8bfa2f0-158d-462f-bb96-c63cf0db6fd0",
+    "timestamp": "2026-09-16T13:28:12.051Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "unique_1789565291719",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: This Email ID is already registered. Each email address can only be used once. Please sign in or use a different email address."
+  },
+  {
+    "id": "log_89e0d792-5785-4e6e-969b-39d62027fb50",
+    "timestamp": "2026-09-16T13:28:11.716Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "friend@9000",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_e6ff874b-8551-46f5-bf73-bcf17a6483fe",
+    "timestamp": "2026-09-16T13:28:11.524Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Unauthorized user attempted to log in via Developer Admin Portal"
+  },
+  {
+    "id": "log_d230a113-6fb2-43cc-a7f7-f75cd195ea66",
+    "timestamp": "2026-09-16T13:28:10.947Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_cbb160d1-0ad6-4eb6-a0f1-af12752ad765",
+    "timestamp": "2026-09-16T13:28:10.757Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_e3b513d2-92d1-476a-a0a4-b414ddef9671",
+    "timestamp": "2026-09-16T13:28:10.125Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_cce89fba-05e6-4dd3-877b-ec21edea7a07",
+    "timestamp": "2026-09-16T13:22:46.753Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_499c4d0b-86fd-4b22-8cc8-1aa07c3b87b8",
+    "timestamp": "2026-09-16T13:22:19.989Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_c883e2e4-32d7-48b7-9089-604ab03658a4",
+    "timestamp": "2026-09-16T13:16:14.000Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_3f17777f-65f1-4a36-a4ac-e2d93f1b4735",
+    "timestamp": "2026-09-16T13:16:03.940Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madara@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "User not found"
+  },
+  {
+    "id": "log_3b81e137-2326-4dd7-94d5-2c26d4d553d0",
+    "timestamp": "2026-09-16T13:14:48.366Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_d3ed213e-497e-421f-bd59-52ed384ef940",
+    "timestamp": "2026-09-16T13:06:14.521Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_d6aabb8b-e3a3-4ec2-aed0-559673950f4a",
+    "timestamp": "2026-09-16T13:06:00.913Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_74cbb6a7-65af-48c3-95ce-f8b52b8b1209",
+    "timestamp": "2026-09-16T11:52:44.993Z",
+    "event": "USER_REGISTERED",
+    "identifier": "vault_1789559564810",
+    "ip": "10.0.0.4",
+    "userAgent": "node",
+    "details": "New user account registered with email: mytest1789559564810@example.com"
+  },
+  {
+    "id": "log_7fc9969d-57ca-422d-a3ce-ec7374862fd6",
+    "timestamp": "2026-09-16T11:52:44.784Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "shubham@1700",
+    "ip": "10.0.0.3",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"shubham@1700\" is reserved. Please choose a different unique Vault ID."
+  },
+  {
+    "id": "log_0ea83ed4-9568-40e5-8aef-d0d2f189e409",
+    "timestamp": "2026-09-16T11:52:44.729Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "10.0.0.2",
+    "userAgent": "node",
+    "details": "Registration failed: The Vault ID \"madar@2004\" is already taken. Every user must have a unique ID. Please choose a different Vault ID."
+  },
+  {
+    "id": "log_bbaecf40-877a-4499-b810-137c03137b6b",
+    "timestamp": "2026-09-16T11:52:44.666Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "brandnew_vault_001",
+    "ip": "10.0.0.1",
+    "userAgent": "node",
+    "details": "Registration failed: This Email ID is already registered. Each email address can only be used once. Please sign in or use a different email address."
+  },
+  {
+    "id": "log_59bcc151-0376-4c69-bb19-fbf5327d4f09",
+    "timestamp": "2026-09-16T11:49:35.114Z",
+    "event": "USER_REGISTERED",
+    "identifier": "vault_1789559374926",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "New user account registered with email: testunique1789559374926@example.com"
+  },
+  {
+    "id": "log_964ce753-4b14-4006-86d1-51a53e6ae89d",
+    "timestamp": "2026-09-16T11:49:34.905Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "user_p4",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must include at least one special character (!@#$%^&* etc.)."
+  },
+  {
+    "id": "log_32199857-9173-48ff-8561-9e2780641ed2",
+    "timestamp": "2026-09-16T11:49:34.867Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "user_p3",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must include at least one number (0-9)."
+  },
+  {
+    "id": "log_63d2acbd-5948-4c88-98db-b94ec61bfcdf",
+    "timestamp": "2026-09-16T11:49:34.815Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "user_p2",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must include letters (alphabets: a-z, A-Z)."
+  },
+  {
+    "id": "log_91f8460d-bf27-4803-84e3-d5de03e827e2",
+    "timestamp": "2026-09-16T11:49:34.747Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "user_p1",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Registration failed: Password must be at least 8 characters long."
+  },
+  {
+    "id": "log_2fcba818-1651-469b-b139-c4cf14bf2280",
+    "timestamp": "2026-09-16T11:23:46.544Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_4d83eecc-900d-4048-9c3c-fb80e4765309",
+    "timestamp": "2026-09-16T11:23:33.012Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_b2728029-296a-40fa-ac0b-04be9a8a43c6",
+    "timestamp": "2026-09-16T11:23:14.428Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Unauthorized user attempted to log in via Developer Admin Portal"
+  },
+  {
+    "id": "log_0e40c2e5-6b7c-4799-a9eb-2d9702fda09b",
+    "timestamp": "2026-09-16T11:21:44.806Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_f40408e7-a9ed-4dfd-8ea4-5be1d0de90ec",
+    "timestamp": "2026-09-16T11:21:44.504Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "privacyuser99",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_9cd5e09f-cc24-45ac-8328-446d69bbfaac",
+    "timestamp": "2026-09-16T11:21:44.299Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "privacyuser99",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Unauthorized user attempted to log in via Developer Admin Portal"
+  },
+  {
+    "id": "log_c857e39d-286e-4713-8012-1fbfc65f5979",
+    "timestamp": "2026-09-16T11:21:44.032Z",
+    "event": "USER_REGISTERED",
+    "identifier": "privacyuser99",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "New user account registered with email: privacyuser@example.com"
+  },
+  {
+    "id": "log_573e80e1-c685-4dec-a45d-1fc3e9ee8db9",
+    "timestamp": "2026-09-16T11:21:30.084Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_18e1e209-e80f-45f7-be83-a431c4f9539f",
+    "timestamp": "2026-09-16T11:21:29.875Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_acafbe73-03c0-4759-88a7-6194c5b8a28e",
+    "timestamp": "2026-09-16T11:21:29.635Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_158c2a1e-9172-4374-bd31-8ee37659c229",
+    "timestamp": "2026-09-16T11:11:17.653Z",
+    "event": "USER_REGISTERED",
+    "identifier": "asdf",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "New user account registered with email: shfdjsakljhkjd@gmail.com"
+  },
+  {
+    "id": "log_6f1d7f80-2d42-4520-97a0-7fcf471ea0d4",
+    "timestamp": "2026-09-16T11:10:39.364Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madara@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "User not found"
+  },
+  {
+    "id": "log_b84b10a8-f1cf-4312-ba30-6022e8a915af",
+    "timestamp": "2026-09-16T11:10:31.716Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "madara@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "User not found"
+  },
+  {
+    "id": "log_2e1a0088-106e-49a6-b878-8b87d774d735",
+    "timestamp": "2026-09-16T11:09:00.375Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_8d72848f-cb36-4997-8c6e-45ed30195d1e",
+    "timestamp": "2026-09-16T11:07:49.412Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_999b9dff-f992-4464-87a2-1c930bedc451",
+    "timestamp": "2026-09-16T11:06:59.212Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_df895b50-936f-4f40-b71e-e0542b29adbb",
+    "timestamp": "2026-09-16T11:05:56.935Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_3f88c7b8-8367-46e1-981c-d09bce54901d",
+    "timestamp": "2026-09-16T10:57:35.766Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_c3e8146d-f66b-4621-9b72-c30284be6af4",
+    "timestamp": "2026-09-16T10:55:54.979Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "rate_limited",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "Rate limited. IP: 203.0.113.195"
+  },
+  {
+    "id": "log_0941808f-c79b-4685-b0e0-4c8b58fb28fd",
+    "timestamp": "2026-09-16T10:55:54.939Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "fake_target",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "User not found"
+  },
+  {
+    "id": "log_a93f35f7-a965-4360-89d9-ee67f6b67429",
+    "timestamp": "2026-09-16T10:55:54.899Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "fake_target",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "User not found"
+  },
+  {
+    "id": "log_22fe007e-43bc-468c-b884-6e067dad0579",
+    "timestamp": "2026-09-16T10:55:54.860Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "fake_target",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "User not found"
+  },
+  {
+    "id": "log_7dba9489-fdc1-4dc5-b857-838dd76cd039",
+    "timestamp": "2026-09-16T10:55:54.810Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "fake_target",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "User not found"
+  },
+  {
+    "id": "log_dcc86160-79ce-4c35-bf28-664aeeeaea3c",
+    "timestamp": "2026-09-16T10:55:54.649Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "fake_target",
+    "ip": "203.0.113.195",
+    "userAgent": "node",
+    "details": "User not found"
+  },
+  {
+    "id": "log_20ced827-0916-4b9e-95f7-1b2bd5e58e0c",
+    "timestamp": "2026-09-16T09:44:03.418Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_029a231d-a691-4718-ae75-0a9afcc57933",
+    "timestamp": "2026-09-16T09:43:46.647Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_36b221b0-2473-4742-bfca-a5d4a65baaf3",
+    "timestamp": "2026-09-16T09:25:02.853Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_885b48d3-19ea-4445-af5b-909d9a9b82cd",
+    "timestamp": "2026-09-16T09:24:45.944Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "node",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_c25021ea-4850-4028-b029-5302614a4583",
+    "timestamp": "2026-09-15T19:04:23.785Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_d9ceb12f-b1a3-400d-874f-cad5100d5a0c",
+    "timestamp": "2026-09-15T19:04:02.254Z",
+    "event": "LOGIN_FAILED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "Incorrect password entered"
+  },
+  {
+    "id": "log_75a33d54-13ba-4c6b-975d-b2063a42c4aa",
+    "timestamp": "2026-09-15T19:03:36.681Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "madar@2004",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_b5ec3cb3-aaa6-4dae-8ad7-dec75fa67797",
+    "timestamp": "2026-09-15T19:01:41.376Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_12b4dd71-f668-4b34-a43d-9348d672f823",
+    "timestamp": "2026-09-15T18:57:08.044Z",
+    "event": "PASSWORD_CHANGED",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9444",
+    "details": "Admin password change failed: Current admin password does not match."
+  },
+  {
+    "id": "log_fb726b14-82b2-4e20-9469-b552e4852518",
+    "timestamp": "2026-09-15T18:57:07.793Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9444",
+    "details": "Developer Admin Portal Login"
+  },
+  {
+    "id": "log_87eecd5b-4de0-490d-814f-530b90943659",
+    "timestamp": "2026-09-15T18:55:31.121Z",
+    "event": "LOGIN_SUCCESS",
+    "identifier": "friend@9000",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9444",
+    "details": "Standard Vault Login"
+  },
+  {
+    "id": "log_98075538-58f2-4eee-b933-bdfa485ca9cf",
+    "timestamp": "2026-09-15T18:55:30.751Z",
+    "event": "ADMIN_LOGIN",
+    "identifier": "shubham@1700",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9444",
+    "details": "Developer Admin Portal Login"
+  }
+]

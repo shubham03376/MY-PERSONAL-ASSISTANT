@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vault-shubham-001",
+    "email": "shubham@vault.local",
+    "username": "shubham@1700",
+    "passwordHash": "$2b$10$b/ZByIl2QCAeMnl2u5TNGOVRZoQHjOHB1slyjKIoNG/bJNNznzWXe",
+    "role": "admin",
+    "createdAt": "2026-09-15T18:24:07.456Z"
+  },
+  {
+    "id": "user_0af14bf8-f0e9-4213-8a4b-467acfc6e1a8",
+    "email": "friend@example.com",
+    "username": "friend@9000",
+    "passwordHash": "$2b$10$Eu5VO1FuF7.5L1bjt006EOD5tDQnhVateQ1RPeKcXIlvTGEPwsWgS",
+    "role": "user",
+    "createdAt": "2026-09-15T18:24:07.531Z"
+  },
+  {
+    "id": "user_d9a32219-3d35-4e0b-bb37-4f71d2d59ade",
+    "email": "vdk0905@gmail.com",
+    "username": "madar@2004",
+    "passwordHash": "$2b$10$huJx9LVNarJm1k2mzTFB0uGqD3T6VA98jHktkUHoxdQk1zy1PoFqS",
+    "role": "user",
+    "createdAt": "2026-09-15T18:27:57.508Z"
+  },
+  {
+    "id": "user_0f918a10-c3da-4d1f-9f5c-8c1c6e0f9e34",
+    "email": "shfdjsakljhkjd@gmail.com",
+    "username": "asdf",
+    "passwordHash": "$2b$10$VAwP2EEMwFEWW6tUxFJJuuMJKY2WXA.bposSSIRqTevJCJ.nvCj9i",
+    "role": "user",
+    "createdAt": "2026-09-16T11:11:17.636Z"
+  },
+  {
+    "id": "user_811ea1fe-f3dd-445b-84dc-6cf454c00d83",
+    "email": "user_1789565292168@testvault.org",
+    "username": "vault_tester_1789565292168",
+    "passwordHash": "$2b$10$IgKrOOSfwhCUp3X2/e1ZneUQ9T7UWDiQ4qKcDBFJuZpd4Zl5X7ABi",
+    "role": "user",
+    "createdAt": "2026-09-16T13:28:12.350Z"
+  },
+  {
+    "id": "user_6a0d5ee7-6271-4d78-98f0-e44b44d02573",
+    "email": "user_1789565609870@testvault.org",
+    "username": "vault_tester_1789565609870",
+    "passwordHash": "$2b$10$tr5Oub7FGHsgNwe85sRJFu/H3VVPzkGshGbLJ5focXNl8VPHYABpi",
+    "role": "user",
+    "createdAt": "2026-09-16T13:33:30.032Z"
+  }
+]

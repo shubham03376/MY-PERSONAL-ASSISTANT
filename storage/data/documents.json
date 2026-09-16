@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ae64a554-baad-4aae-a05d-f990d6dc34f0",
+    "userId": "user_d9a32219-3d35-4e0b-bb37-4f71d2d59ade",
+    "title": "Medical Report 2026",
+    "originalName": "medical_report_2026.txt",
+    "filename": "ae64a554-baad-4aae-a05d-f990d6dc34f0.txt",
+    "mimeType": "text/plain",
+    "size": 50,
+    "category": "Medical",
+    "notes": "Annual checkup confidential report",
+    "createdAt": "2026-09-16T13:43:29.328Z",
+    "updatedAt": "2026-09-16T13:43:29.328Z"
+  },
+  {
+    "id": "9f169d87-779d-4462-9b74-038523e55a98",
+    "userId": "user_d9a32219-3d35-4e0b-bb37-4f71d2d59ade",
+    "title": "Medical Report 2026",
+    "originalName": "medical_report_2026.txt",
+    "filename": "9f169d87-779d-4462-9b74-038523e55a98.txt",
+    "mimeType": "text/plain",
+    "size": 50,
+    "category": "Medical",
+    "notes": "Annual checkup confidential report",
+    "createdAt": "2026-09-16T13:39:37.104Z",
+    "updatedAt": "2026-09-16T13:39:37.104Z"
+  },
+  {
+    "id": "cbd9a1d2-f2cc-4f18-984b-6d43aa274562",
+    "userId": "vault-shubham-001",
+    "title": "ass2.pdf",
+    "originalName": "ass2.pdf",
+    "filename": "cbd9a1d2-f2cc-4f18-984b-6d43aa274562.pdf",
+    "mimeType": "application/pdf",
+    "size": 575307,
+    "category": "General",
+    "notes": "",
+    "createdAt": "2026-09-15T19:05:49.125Z",
+    "updatedAt": "2026-09-15T19:05:49.125Z"
+  }
+]
